@@ -1,16 +1,36 @@
-## Hi there 👋
+## Joshua Ejiobih
 
-<!--
-**Joshua-Ejiobih/Joshua-Ejiobih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer based in Lagos, Nigeria.
 
-Here are some ideas to get you started:
+I build web applications across healthcare, compliance, and community platforms —
+working across frontend architecture, AI integrations, authentication systems,
+and the operational tooling that keeps production software reliable.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently deepening my understanding of backend engineering,
+distributed systems, and software architecture.
+
+---
+
+**Recent work**
+
+- **FoodRisk AI** — AI-powered food safety platform. Built with React, TypeScript, Supabase, and Gemini. Designed an API key rotation system for production AI reliability.
+- **Sponsor Compliance System** — UK Home Office compliance platform. Contributed to RBAC, centralized logging, and a custom production data migration under significant platform constraints.
+- **Spirit Connect** — Progressive web application for guided prayer and journaling. Built automated prayer sessions with synchronized audio across browsers and devices.
+
+---
+
+**Stack I work with**
+
+JavaScript · TypeScript · React · Supabase · Tailwind CSS · Cloudflare · Gemini API · Git
+
+---
+
+**Elsewhere**
+
+Portfolio → [my-portfoio.vercel.app](https://my-portfoio.vercel.app)  
+LinkedIn → [linkedin.com/in/joshua-ejiobih](https://linkedin.com/in/joshua-ejiobih-3993a26a)  
+Email → joshuaejiobih@gmail.com
+
+---
+
+*Every difficult problem teaches you how the next system should be built.*
